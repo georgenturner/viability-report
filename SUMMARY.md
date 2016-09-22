@@ -4,7 +4,7 @@
 * [What is financial viability](chapter1.md)
 * [Financial viability and planning](financial_viability_and_planning.md)
 * [Assuming the worst](assuming_the_worst.md)
-* Low values and high costs
+* [Low values and high costs](low_values_and_high_costs.md)
 * The Land
 * Excuses
 * Self Regulation
