@@ -7,4 +7,5 @@
 * The Land
 * Financial viability and planning
 * Excuses
+* Self Regulation
 
