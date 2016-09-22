@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [What is financial viability](chapter1.md)
-* Assuming the worst
+* [Assuming the worst](assuming_the_worst.md)
 
