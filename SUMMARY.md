@@ -6,7 +6,7 @@
 * [Assuming the worst](assuming_the_worst.md)
 * [Low values and high costs](low_values_and_high_costs.md)
 * [The Land](the_land.md)
-* Excuses
+* [Excuses](excuses.md)
 * Self Regulation
 * [Underselling](underselling.md)
 
