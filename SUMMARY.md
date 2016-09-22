@@ -10,4 +10,5 @@
 * [Self Regulation](self_regulation.md)
 * [Underselling](underselling.md)
 * [Profit and loss](profit_and_loss.md)
+* Secrecy
 
