@@ -11,5 +11,5 @@
 * [Underselling](underselling.md)
 * [Profit and loss](profit_and_loss.md)
 * [Secrecy](secrecy.md)
-* Solutions
+* [Solutions](solutions.md)
 
