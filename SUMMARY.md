@@ -9,5 +9,5 @@
 * [Excuses](excuses.md)
 * [Self Regulation](self_regulation.md)
 * [Underselling](underselling.md)
-* Profit and loss
+* [Profit and loss](profit_and_loss.md)
 
