@@ -6,4 +6,5 @@
 * Low values and high costs
 * The Land
 * Financial viability and planning
+* Excuses
 
