@@ -5,7 +5,7 @@
 * [Financial viability and planning](financial_viability_and_planning.md)
 * [Assuming the worst](assuming_the_worst.md)
 * [Low values and high costs](low_values_and_high_costs.md)
-* The Land
+* [The Land](the_land.md)
 * Excuses
 * Self Regulation
 * [Underselling](underselling.md)
