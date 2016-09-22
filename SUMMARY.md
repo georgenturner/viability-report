@@ -7,6 +7,6 @@
 * [Low values and high costs](low_values_and_high_costs.md)
 * [The Land](the_land.md)
 * [Excuses](excuses.md)
-* Self Regulation
+* [Self Regulation](self_regulation.md)
 * [Underselling](underselling.md)
 
