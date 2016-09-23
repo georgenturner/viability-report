@@ -1,3 +1,4 @@
-# The financial viability system
+# How is financial viability measured
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
