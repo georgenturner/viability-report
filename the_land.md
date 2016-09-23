@@ -42,10 +42,6 @@ If that did happen this is exactly the situation planning authorities and RICS t
 
 The developer then uses that land value to justify not building affordable housing to the planning authority. In effect the public loses because a landowner, in this case Network Rail, decided to get greedy.
 
-RICS have been appraised of this case, whether they will do anything is another matter altogether.
-
-[gap height=”15″][/gap]
-
 The “Market Values”
 
 Below are the market values used as comparables for the viability appraisal for 12-20 Wyvil Road. It should have been obvious from the benchmarks chosen that building a policy compliant development in terms of affordable housing would have been impossible.
@@ -57,12 +53,9 @@ In order to generate comparable figures using the plots chosen Savills took the 
 Parliament House is a tower of luxury housing behind the Albert Embankment which was granted planning permission in 2008 for a 23 story tower containing 31% affordable housing, all to be sold on a shared ownership basis. Planning policy requires 40% affordable housing with 70% being at social rent.
 
 Parliament House
-Parliament House
 There is a similar story at Hampton House, currently being built and renamed “The Corniche”. Here the proposal was to build 33% affordable housing as ‘senior living’ accommodation.
 
 Corniche
 The land on which ‘Hampton House’ formerly stood. Now being rebuild as ‘The Corniche’
 Vauxhall Sky Gardens, another comparable on the list, had a land value of £10.9m. As we wrote in our last blog, the proposals in this case was for a building with just 17% affordable housing.
 
-The tower at Vauxhall Sky Gardens 
-The tower at Vauxhall Sky Gardens
