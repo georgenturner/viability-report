@@ -13,5 +13,5 @@
 * [Profit and loss](profit_and_loss.md)
 * [Secrecy](secrecy.md)
 * [Solutions](solutions.md)
-* How viability works
+* [How viability works](how_viability_works.md)
 
