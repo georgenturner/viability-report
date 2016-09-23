@@ -14,4 +14,6 @@ Evidence collected by ourcity.london and others show that firms of surveyors hav
 
 The system is very similar to the world of tax avoidance by multi-natonal corporations. Multi-nationals have an incentive to show tax authorities in countries where they operate overseas that they are making low profits and are therefore only obliged to pay little or no tax on their profits.  
 
-To achieve this accounting firms have developed a whole panoply of 
+To achieve this accounting firms have developed a whole panoply of accounting tricks to allow corporations to shift profits out of a subsidiary they own in one country and into another company they own, usually located in a tax haven. 
+
+The surveying industry have become to developers, what accounts have become to multi-national corporations. 
