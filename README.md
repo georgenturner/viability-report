@@ -1,3 +1,3 @@
-# The evidence 
+# Introduction - A broken system 
 
-This document reveals the evidence against the financial viability system 
+Financial viability in planning is the most important issue facing our cities today. 

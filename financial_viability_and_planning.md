@@ -1,6 +1,6 @@
 # Financial viability and planning
 
-When planning authorities decide on whether or not a development should be granted permission to build they must by law determine the application in in line with the development plan. The key test for a development is whether or not it meets the plan. 
+When planning authorities decide on whether or not a development should be granted permission to build they must by law determine the application in in line with the development plan. The key test for a development is whether or not it meets the plan. If it does not, the planning authority can reject the application, if it does, the planning authority must approve it.  
 
 The development plan comprises of a number of documents drawn up by different levels of government. The National Planning Policy Framework (NPPF), a regional plan such as the London Plan and the Local Development Framework drawn up by the local planning authority. 
 
