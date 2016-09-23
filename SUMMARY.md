@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [What is financial viability](chapter1.md)
 * [Financial viability and planning](financial_viability_and_planning.md)
+   * How the system is manipulated
 * [Assuming the worst](assuming_the_worst.md)
 * [Low values and high costs](low_values_and_high_costs.md)
 * [The Land](the_land.md)
