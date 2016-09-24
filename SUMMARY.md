@@ -5,6 +5,7 @@
 * [How viability works](how_viability_works.md)
 * [How the system is manipulated](how_the_system_is_manipulated.md)
 * [The Land](the_land.md)
+* [The Land 2](the-land.md)
 * [Profit and loss](profit_and_loss.md)
 * [Assuming the worst](assuming_the_worst.md)
 * [Low values and high costs](low_values_and_high_costs.md)
@@ -13,5 +14,5 @@
 * [Profit and loss](profit_and_loss.md)
 * [Secrecy](secrecy.md)
 * [Solutions](solutions.md)
-* [Offcuts](offcuts.md)
+* The Land
 
