@@ -4,7 +4,7 @@ Savills, this time teaming up with Knight Frank, adopted a similarly unorthodox 
 
 Again, in this case the developer rejected the current use value approach, and instead chose a land value benchmark based on the current use value of scheme which had been granted planning permission but had not been built. 
 
-This was a permission which Shell had previously obtained for the site in 2005, an expanded office development which built on some of the open spaces on the site.  
+This was a permission which Shell had previously obtained for the site in 2005, an expanded office development which built on some of the open spaces on the site.  
 
 The problem with using this approach is clear. It allows developers to rachet down planning conditions by submitting a series of planning applications. 
 
@@ -12,7 +12,7 @@ What was particularly strange about the approach addopted by Shell, was that con
 
 Lambeth employed BNP Paribas to check the FVA submitted by the developers in this scheme. Their report described this approach as ‘unconventional’. BNP suggested some modifications to this approach which resulted in a lower benchmark land value, but the report then went onto say: 
 
->“It should be noted that had we adopted a more conventional market based approach this reduction in the benchmark land value would have been more substantial.”
+>“It should be noted that had we adopted a more conventional market based approach this reduction in the benchmark land value would have been more substantial.”
 
 In other words, the adoption of this alternative scheme value produced a higher land value benchmark than even the market based aproach favoured by RICS. 
 
