@@ -1,7 +1,26 @@
-Underestimating the sales values of new apartments on the development is one of the simplest ways of manipulating a FVA. 
+#Residental sales values
+Underestimating the sales values of new apartments on the development is one of the simplest ways of manipulating a FVA. A lower valuation will mean lower profits and a less viable building.
 
-It appears that the surveying profession has developed a practice of double accounting. 
+To achieve this outcome, evidnce I have collected shows that when acting on bahalf of a client, the surveyor will produce two separate valuations for the residential units on a new development. A lower valuation is used as an input into FVA. This low valuation will mean that the development will appear to be making no profits and the FVA can then be used to pursuade the planning authority to remove planning obligations. 
 
+A second valuation is used to sell the scheme to investors and shows a more realistic picture of scheme viability. 
 
+Of course, surveyors never reveal the fact that they have produced a range of valuations. This practice has only been uncovered by leaks of information passed to campaigners by people within the industry concerned about the practice. 
 
-In addition, the way in which this was done, with the surveyors insisting on confidentiality, and not revealing the fact that they had produced two valuations brings also risks bringing the profession into disrepute. When a surveyor produces two contemporaneous valuations, and keeps the fact that they have done so secret in these circumstances it will obviously lead to the suspicion that the surveyor has engineered one valuation to help their client reduce the amount of affordable housing on the site. This is a point that has been acknowledged in a number of articles in the press which have called into the question of how development viability appraisals are conducted for affordable housing purposes.
+When it has been uncovered the defence of the industry has been that the valuations are not comparable. Finanial viability assessments are based on current day valuations, or the prices on the day of the assessment, where as the data provided to investors is based on future estimates of prices. 
+
+As will become clear from the evidence and case studies we will explore, that explanation is scaresely credible. 
+
+However, even if it were true, then the double accounting technique still falls foul of the RICS professional guidance. 
+
+The RICS guidance throughout consistently emphasises the need to exercise professional judgement. It says that figures may need to be updated to reflect changing market conditions. It stresses the importance of sensitivity testing to arrive at this judgment. The guidance note in the executive summary states: 
+
+>“It is strongly recommended that financial appraisals are sensitivity tested as a minimum, and with more complex schemes further scenario/simulation analysis should also be undertaken. This is to ensure that a sound judgment can be formulated on viability.”
+
+The guidance also states that it will be appropriate in complex schemes to model future sales growth to arrive at a more accurate judgement. 
+
+The guidance also stresses the importance of transparency and the developer engaging in an open and honest conversation with the local authority. Indeed this need for transparency is often cited as the source of the requirement for confidentiality between the planning authority and the developer. It is argued that the amount of disclosure about the scheme given to the planning authority and their consultants can only be achieved if further disclosure to the outside world is protected. 
+
+It is difficult to understand how producing a second valuation of future prices, and keeping the existance of that valuation secret from the planning authority is in line with that guidance. 
+
+The second valuation is clearly very relevant information for the authority. If the respondents were acting in line with the code then they should have been open with the authority about alternative figures they were producing. However they were not. At no point was the existence of the alternative valuations, or the basis of those valuations voluntarily disclosed. 

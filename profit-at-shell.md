@@ -17,12 +17,14 @@ But was a 20% ungeared internal rate of return, let alone a 40% geared rate of r
 At the same time as telling the planning authorities that investors in the Shell Centre would demanded a minimum of a 20% ungeared IRR on thieir project, their agents, Knight Frank and Savills were also speaking to potential investors in the scheme. 
 
 The powerpoint presentation they showed to investors contained a slide details the level of return being seen in several asset classes. London residential sees the highest rate of return at 12% with other asset classes it sees ascomparables at being between 6-8%.
+
 This corresponds to work done by other firms. Colliers produce a report on Global Investor Sentiment which is a survey of investors in the property industry, this found  that investors are targeting IRRs of less than 10% in mature Western markets. Internal Rates of Return of 20% are seen for markets such as Asia and Eastern Europe which are seen as much higher risk.
+
 ##The development
 So what reason did developers at the Shell centre give for such a high rate of return?  The RICS guidance is clear that the judgement about the required profitability benchmark should take into account a range of factors. General market sentiment as well the specific risk profile of the development. 
 
 However, the financial viability consultants appear to have done none of this. Their entire analysis of why such a high profitability benchmark was chosen was based on the argument that developers in other viability submissions had achieved a 20% IRR. Specfically they pointed to the Battersea Power Station Development, the redevelopment of Earls Court and the Greenwich Peninsula. 
 
-In those cases, the developers may well have got away with too much as well, but their developments were also a very different proposition. Battersea power station is a vast development three times the size of the Shell Centre development. It requires the builing of a new tube line to and for the developers to dismantle and rebuild a grade two listed powerstation on the site. Earls Court is a vast development which will take 20 years to complete. 
+In those cases, the developers may well have got away with too much as well, but their developments were also a very different proposition. Battersea power station is a vast development three times the size of the Shell Centre development. It requires the building of a new tube line to and for the developers to dismantle and rebuild a grade two listed powerstation on the site. Earls Court is a vast development which will take 20 years to complete. 
 
 The Shell Centre on the other hand is right in central, next to Waterloo station. It has views over the Houses of Parliament. There is a strong commitement to the scheme from the landowner, Shell, who have pre-let a substantial part of the office space. The rest of the office space was sold to the investment firm Almacantar, in a deal arranged before planning permissoion was secured, but executed after it was granted. The fact that the developer had sold all of the office space on the site before a shovel was put in the ground substantially decreased the risk of the site.  

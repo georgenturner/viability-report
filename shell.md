@@ -7,7 +7,6 @@ Quod, a planning consultancy acting for the developer submitted a financial viab
 
 The FVA was based on estimates of the sales values of the new apartmentss produced by Knight Frank and Savills. This claimed that the new flats on the site would sell for an average of £1275 per square foot.
 
-
 The study was checked by BNP Paribas on behalf of the local council. This agreed with the general premise that the building was unviable but thought the valuation to be a bit low. The document also reveals that Knight Frank and Savills put their case for the £1275 valuation forcefully. 
 
 However, unknown to the council or anyone else, at the same time, Knight Frank and Savills produced a presentation for potential investors in the scheme which listed sales values on the site at £1641 per square foot. 
