@@ -8,7 +8,7 @@ The planning documents that make up the development plan contain a whole host of
 
 Key elements of the plan, such as the use of land, are based on evidence of need. The local authority must create a plan which brings forward sites that meet the needs of the local community. 
 
-The whole system is designed to ensure a democratic accountability towards the local built environment. The requirements of the plan are designed in consultation with the public and their purpose is to make sure that new developments are of a high quality, do not damage our environment, and respond to the needs and desires of the local community.
+The whole system is designed to ensure a democratic accountability towards the local built environment and sustainable development. The requirements of the plan are designed in consultation with the public and their purpose is to make sure that new developments are of a high quality, do not damage our environment, and respond to the needs and desires of the local community.
 
 However, over a number of years a succession of governments have created a significant and growing loophole in the planning system, the need for planning authorities to have regard to the financial viability of developments.
 
