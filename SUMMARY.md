@@ -15,8 +15,6 @@
     * [Profit at Shell](profit-at-shell.md)
 * [Low values and high costs](low_values_and_high_costs.md)
 * [Assuming the worst](assuming_the_worst.md)
-* [Self Regulation](self_regulation.md)
-* [Secrecy](secrecy.md)
-* [Solutions](solutions.md)
+* [Conclusions](conclusions.md)
 * [Endnotes](endnotes.md)
 
