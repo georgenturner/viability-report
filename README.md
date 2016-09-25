@@ -29,4 +29,14 @@ The previous Mayor, Boris Johnson at a mayoral question time referred to viabili
 The suspicion around the process is exacerbated by the secrecy surrounding the system. 
 
 ##A system broken
-These authorities are right to be concerned. Over several years investigating the development industry I have collected evidence which demonstrates that leading surveyors are creating 
+These authorities are right to be concerned. Over several years investigating the development industry I have collected evidence which demonstrates that leading surveyors are creating fraudulent valuations for the purpose of helping their clients to negotiate away planning constraints on their sites.
+
+
+These valuations are created in the knoledge that they are neither fair or accurate 
+The evidence is related to three firms of surveyors, Knight Frank LLP, Savills and Quod and covers a number of major developments in London. 
+
+The evidence shows that these firms will consistently disregard published guidance when creating their viability appraisals in order to allow their clients to present an in
+
+The behaviour displayed is clearly a breach of the professional obligations that surveyors placed under by their regulator, the Royal Institute of Chartered Surveyors. 
+
+If RICS is to restore trust in their profession, the purpose  
