@@ -26,5 +26,7 @@ The previous Mayor, Boris Johnson at a mayoral question time referred to viabili
 
 >We believe there is therefore a compelling case to revise national planning policy and guidance to ensure that individual viability assessments do not systematically undermine the delivery of affordable housing and other planning obligations.
 
+The suspicion around the process is exacerbated by the secrecy surrounding the system. 
+
 ##A system broken
-These authorities are right to be concerned. Over several years investigating the development industry I have collected evidence whcih demonstrates that 
+These authorities are right to be concerned. Over several years investigating the development industry I have collected evidence which demonstrates that leading surveyors are creating 
