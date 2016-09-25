@@ -12,6 +12,7 @@
 * [Values](values.md)
     * [Shell](shell.md)
     * [8 Albert Embankment](8-albert-embankment.md)
+    * [Sky Gardens](sky-gardens.md)
 * [Low values and high costs](low_values_and_high_costs.md)
 * [Assuming the worst](assuming_the_worst.md)
 * [Self Regulation](self_regulation.md)
