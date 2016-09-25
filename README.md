@@ -29,14 +29,18 @@ The previous Mayor, Boris Johnson at a mayoral question time referred to viabili
 The suspicion around the process is exacerbated by the secrecy surrounding the system. 
 
 ##A system broken
-These authorities are right to be concerned. Over several years investigating the development industry I have collected evidence which demonstrates that leading surveyors are creating fraudulent valuations for the purpose of helping their clients to negotiate away planning constraints on their sites.
+These authorities are right to be concerned. Over several years investigating the development industry I have collected evidence which demonstrates serious issues in the professional conduct of surveyors involved in the financial viability system.  
 
+This evidence has led me to the opinion that some leading firms of surveyors are have developed a practice of creating fraudulent valuations for the purpose of helping their clients to negotiate away planning constraints on their sites.
 
-These valuations are created in the knoledge that they are neither fair or accurate 
 The evidence is related to three firms of surveyors, Knight Frank LLP, Savills and Quod and covers a number of major developments in London. 
 
-The evidence shows that these firms will consistently disregard published guidance when creating their viability appraisals in order to allow their clients to present an in
+As will be demonstrated, this practice is not permitted by some loophole in the legislation or guidance around financial viability assessments. The evidence shows that these firms will consistently disregard published guidance, and well established professional practice when creating their viability appraisals if it will allow their clients to avoid planning obligations. 
 
-The behaviour displayed is clearly a breach of the professional obligations that surveyors placed under by their regulator, the Royal Institute of Chartered Surveyors. 
+What is of most concern is that the practice appears to be endemic in these consultancies. It is part of their offer to their clients, which means that the cases outlined below are most likely merely the tip of the iceberg. 
 
-If RICS is to restore trust in their profession, the purpose  
+This evidence is being presented to the Royal Institute of Chartered Surveyors (RICS) as part of a complaint into the three firms named in this report. 
+
+The behaviour outlined in this report is clearly a breach of the firms professional obligations.
+
+Given the national importance of this issue, if RICS is to restore trust in their profession, they must take firm action.
