@@ -1,8 +1,12 @@
 #Vauxhall Sky Gardens
 
-Frasers property had been granted planning permission to build a quite specularly ugly tower in Vauxhall in 2008. The original planning permission came with an agreement that the developer would provide 40% affordable housing onsite. The developers were receiving subsidy to build affordable housing and so Lambeth council's policy said that 50% of the development should have been affordable. 
+Frasers property was granted planning permission to build a quite specularly ugly tower in Vauxhall in 2008. The tower, called Vauxhall Sky Gardens is a residential and office tower. A white tube, with green glass and a roof garden. 
 
-In 2010 the developer successfully lobbied the council to reduce that requirement to 31% and to allow them to build higher and get rid of some of the commercial space, increasing the amount of market housing on the site. 
+The original planning permission came with an agreement that the developer would provide 40% affordable housing onsite. The developers were expecting a government grant to subsidise the building of affordable housing. 
+
+For applications where grant was available Lambeth council's policy was that 50% of the development should be affordable.
+
+In 2010 the developer successfully lobbied the council to reduce the affordable housing requirement to 31% and to allow them to build higher and get rid of some of the commercial space, increasing the amount of market housing on the site. 
 
 In 2013 they returned to the council again, requesting that the affordable housing requirement be got rid of altogether. Their claim was that there proposals were so desperately unprofitable that this was the only way that the scheme would be viable. This time the council only partially accepted their argument and reduced the requirement to 17%.
 

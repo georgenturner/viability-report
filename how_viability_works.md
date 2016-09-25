@@ -1,6 +1,6 @@
 # How viability works
 
-The key document in the Financial Viability system is the financial viability assessment (FVA). 
+The key document in the financial viability system is the financial viability assessment (FVA). 
 
 If a developer wants to request that a planning authority remove planning obligations (affordable housing, childrens playspace, restrictions on rooms being too small), they submit an FVA to the council which demonstrates why the development is unviable. An FVA sets out the revenues a development is expected to make and the cost of building it.
 
