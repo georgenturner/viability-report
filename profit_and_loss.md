@@ -25,11 +25,13 @@ The decision of where they put their money is not just related to the potential 
 
 For example at the time of witing September 2016, the yield on 2 year UK government bonds is 0.09%. That means that if you were to buy 2 year bonds (loans to the UK governemnt) today, the return you would make would be less than 1/100th of a percent. 
 
-The reason for this is that the UK government is seen as a very safe bet, governments almost always repay their debt. At the same time the rest of the economy is seen as more risky because of the uncertainty of brexit, which increases the demad for governemnt bonds as people flee to safety. 
+The reason for this is that the UK government is seen as a very safe bet, governments almost always repay their debt. At the same time the rest of the economy is seen as more risky because of the uncertainty of brexit, which increases the demand for governemnt bonds as people flee to safety. 
 
-The question that surveyors must ask themselves therefore is what is the minimum return on investment a developer needs to demonstrate in order to attract investors to a scheme. That will be based on a judgement about both the risk of the scheme and the general alternative investment opportunities available to potential investor. 
+The question that surveyors must ask themselves therefore is what is the minimum return on investment a developer needs to demonstrate in order to attract investors to a scheme. What is the profitability hurdle, or threshold the developer faces before they can attract finance. That will be based on a judgement about both the risk of the scheme and the general alternative investment opportunities available to potential investor. 
 
-This is of course a difficult process and the indiviual risks of each scheme must be taken into accounts. RICS produces guiance on this subject, it says: 
+This is of course a difficult process and the indiviual risks of each scheme must be taken into accounts. RICS produces guidance on this subject, it says: 
 
 >developer’s profit allowance, should be at a level reflective of the market at the time of the assessment being undertaken. It will include the risks attached to the specific scheme. This will include both property-specific risk, i.e. the direct development risks within the scheme being considered, and also broader market risk issues, such as the strength of the economy and occupational demand, the level of rents and capital values, the level of interest rates and availability of finance. The level of profit required will vary from scheme to scheme, given different risk profiles as well as the stage in the economic cycle. For example, a small scheme constructed over a shorter timeframe may be considered relatively less risky and therefore attract a lower profit margin, given the exit position is more certain, than a large redevelopment spanning a number of years where the outturn is considerably more uncertain. A development project will only be considered economically viable if a market risk adjusted return is met or exceeds a benchmark risk-adjusted market return.
+
+However, as the following case study demonstrates, this detailed analysis is not always done. 
 

@@ -6,5 +6,5 @@ Alternatively the developer's profit could be inputted into the FVA as a fixed c
 
 Where the FVA outputs a land value then financial viability is achieved if the number the FVA produces is greater than an agreed land value benchmark. That benchmark is usually the value of the land in its existing use. The logic is that if a landowner can get more money from selling the land to be developed than if they sold the land in its existing use, then they will sell it to a developer and the development is financially viable.
 
-Clearly the setting of the benchmark land value between the council and the developer is a crucial part of the viability process. If the developer manages to convince the council that the current use value of the site is higher than it actually is, then financial viability will be more difficult to achieve and planning obligations will be removed unnecessarily. 
+Clearly the setting of the benchmark land value between the council and the developer is a crucial part of the viability process. If the developer manages to convince the council that the current use value of the site is higher than it actually is, then financial viability will be more difficult to achieve and planning obligations could be removed unnecessarily. 
 

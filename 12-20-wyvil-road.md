@@ -7,7 +7,7 @@ It is difficult to image how land used for high end luxury housing could be wort
 
 The trick was all in the land value benchmark chosen - £30m. In this case the number used was not the existing use value of the site, it would have been extremely difficult to convince anyone, even Lambeth's accomodating planners, that the buildings were worth £30m, but the number was what developers claimed was the “market value” of the site.
 
-The use of market value rather than current use value as a benchmark has some support from RICS, although the practice is quite controvertial and there is some coflict between the approach taken by RICS and the government. 
+The use of market value rather than current use value as a benchmark has some support from RICS, although the practice is quite controvertial and there is some coflict between the approach taken by RICS and government at various levels. 
 
 The fear is that if the current market for land is being inflated by unrealistic expectations from developers then developers can overpay for the land and the council will be compelled to drop planning obligations to help them make up the deficit.
 
