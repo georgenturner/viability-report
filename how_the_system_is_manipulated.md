@@ -4,7 +4,9 @@ As a result of changes to government policy, an industry has built up to exploit
 
 The incentives are obvious. If a developer can produce a financial viability assessment that is overly pesamistic, that underestimates revenues, and overestimates costs then the development proposal will appear much less profitable than it is in reality. This will allow the developer to get rid of all sorts of planning conditions and boost their profits. 
 
-This can be achieved by manipulating the inputs into the viability equation. For example, if the costs are overestimated, and the revenues of a scheme underestimated 
+This can be achieved by manipulating the inputs into the viability equation. For example, if the costs are overestimated, and the revenues of a scheme underestimated then the profit shown will be lower than it will be in reality and the scheme appear to be unviable. 
+
+The other way of manipulating the assessment is to set benchmarks, profit targets and land costs, that are unrealistically high. 
 
 Evidence collected by ourcity.london and others suggest that firms of surveyors have been creating viability assessments which provide purposefully inaccurate representations of the viability of the scheme. These are made with the sole purpose of reducing the planning obligations on their clients and increasing their profits. 
 
