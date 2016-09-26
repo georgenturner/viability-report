@@ -18,20 +18,24 @@ This concern was articulated in a detailed [article]( https://www.theguardian.co
 
 >"In the last decade, London has lost 8,000 social-rented homes. Under the Tory-led coalition, the amount of affordable housing delivered across the country fell by a third – from 53,000 homes completed in 2010 to 36,000 in 2014. Much of the reason lies hidden in these developers’ viability assessments and the dark arts of accounting, which have become all-powerful tools in the way our cities are being shaped."[^]
 
-Planning authorities have also raised concerns. Islington council in January 2016 published a supplementary planning document on development viability. On the publication of the document the authority said that they had been compelled to publish guidance following attempts to undermine the development plan through inappropriate approaches to assessing viability:
+Planning authorities have also raised concerns. Islington council recntly told the House of Lords Environment committee:
 
->Despite viability becoming a central part of the planning process, there has been relatively wide scope and discretion for how viability matters are dealt with. The council’s experience is that in some instances this has led to the use of inappropriate approaches to assessing viability and this has come into conflict with the principle of sustainable development and the plan-led system. 
+>Developers’ viability assessments are systematically pessimistic in their assumptions about
+their ability to deliver planning obligations such as affordable housing and
+supporting infrastructure.
 
-The previous Mayor, Boris Johnson at a mayoral question time referred to viability assessments as a 'dark art' and the House of Lords environment committee in their recent report 'Building better places' also raised concerns about the viability process: 
+The committee in their recent report 'Building better places' called for national planning guidance to be revised in light of their findings that the financial viability system has been used to undermine the planning process: 
 
 >We believe there is therefore a compelling case to revise national planning policy and guidance to ensure that individual viability assessments do not systematically undermine the delivery of affordable housing and other planning obligations.
+
+The previous Mayor, Boris Johnson at a mayoral question time referred to viability assessments as a 'dark art'. 
 
 The suspicion around the process is exacerbated by the secrecy surrounding the system. Frequently on development applications, the public and even the decision makers themselves will be asked to trust the work of surveyors in their determination of a schemes viability. They are unable to check for themselves as the documentation is kept secret. 
 
 ##A system broken by misconduct
 These authorities are right to be concerned. Over several years investigating the development industry I have collected evidence which demonstrates serious issues in the professional conduct of surveyors involved in the financial viability system.  
 
-This evidence has led me to the opinion that some leading firms of surveyors are have developed a practice of creating fraudulent valuations for the purpose of helping their clients to negotiate away planning constraints on their sites.
+This evidence has led me to the opinion that some leading firms of surveyors are have developed a practice of creating fraudulent valuations for the purpose of helping their clients to negotiate away planning constraints on their sites. This practice provides an easy fix to boost their clients interest, but does so at the expense of the public interest. 
 
 The evidence is related to three firms of surveyors, Knight Frank LLP, Savills and Quod and covers a number of major developments in London. 
 
