@@ -18,7 +18,7 @@ This concern was articulated in a detailed [article]( https://www.theguardian.co
 
 >"In the last decade, London has lost 8,000 social-rented homes. Under the Tory-led coalition, the amount of affordable housing delivered across the country fell by a third – from 53,000 homes completed in 2010 to 36,000 in 2014. Much of the reason lies hidden in these developers’ viability assessments and the dark arts of accounting, which have become all-powerful tools in the way our cities are being shaped."[^]
 
-Planning authorities have also raised concerns. Islington council recntly told the House of Lords Environment committee:
+Planning authorities have also raised concerns. Islington council recently told the House of Lords Environment committee:
 
 >Developers’ viability assessments are systematically pessimistic in their assumptions about
 their ability to deliver planning obligations such as affordable housing and
@@ -32,8 +32,14 @@ The previous Mayor, Boris Johnson at a mayoral question time referred to viabili
 
 The suspicion around the process is exacerbated by the secrecy surrounding the system. Frequently on development applications, the public and even the decision makers themselves will be asked to trust the work of surveyors in their determination of a schemes viability. They are unable to check for themselves as the documentation is kept secret. 
 
+This secrecy hinders policy makers in effectively dealing with the issue, but it also provides opportunities to conceal misconduct on the part of planning professionals. 
+
 ##A system broken by misconduct
-These authorities are right to be concerned. Over several years investigating the development industry I have collected evidence which demonstrates serious issues in the professional conduct of surveyors involved in the financial viability system.  
+Clearly there is a problem. Although developers often claim that their projects are unviable, one only has to look at the profit margins being declared by property developers to the stock market to see that development is currently very viable indeed.
+
+This has led to many calls to tighten up the guidance surrounding viability assessments to improve the outcomes for planning authorities. However, that is only a small part of the answer. If guidance is routinely ignored, changing that guidance will have little effect. 
+
+Over several years investigating the development industry I have collected evidence which demonstrates serious issues in the professional conduct of surveyors involved in the financial viability system.  
 
 This evidence has led me to the opinion that some leading firms of surveyors are have developed a practice of creating fraudulent valuations for the purpose of helping their clients to negotiate away planning constraints on their sites. This practice provides an easy fix to boost their clients interest, but does so at the expense of the public interest. 
 
@@ -41,7 +47,7 @@ The evidence is related to three firms of surveyors, Knight Frank LLP, Savills a
 
 As will be demonstrated, this practice is not permitted by some loophole in the legislation or guidance around financial viability assessments. The evidence shows that these firms will consistently disregard published guidance, and well established professional practice when creating their viability appraisals if it will allow their clients to avoid planning obligations. 
 
-What is of most concern is that the practice appears to be endemic in these consultancies. It is part of their offer to their clients, which means that the cases outlined below are most likely merely the tip of the iceberg. 
+What is of most concern is that the practice appears to be endemic in these consultancies. It is part of their offer to their clients. The cases outlined below are most likely merely the tip of the iceberg. 
 
 This evidence is being presented to the Royal Institute of Chartered Surveyors (RICS) as part of a complaint into the three firms named in this report. 
 
