@@ -16,5 +16,5 @@ Under the current planning rules if a developer can show that their proposals ar
 
 In other words, if a developer is not achieving an agreed level of profit then the planning authority must subsidise their profits by allowing them to depart from the development plan.
 
-This is primarily achieved through the provision of fewer units of affordable housing, but as the provisions on financial viability have been expanded then more or less any planning obligation is able to be sacrificed if it will increase profits. That mean not providing adequate open spaces, childrens’ play spaces, community facilities or damaging historic buildings and the views of historic buildings.To put it bluntly under the current system developers profit comes first, town planning second.
+This is primarily achieved through the provision of fewer units of affordable housing, but as the provisions on financial viability have been expanded then more or less any planning obligation is able to be sacrificed if it will increase profits. That mean not providing adequate open spaces, childrens’ play spaces, community facilities or damaging historic buildings and the views of historic buildings. To put it bluntly under the current system developers profit comes first, town planning second.
 
