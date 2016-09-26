@@ -4,11 +4,11 @@ The UK is struggling to housing itself. The country is experiencing a deep and p
 
 Politicians and policy makers are all clear that that the answer lies in building more homes. To support this they have passed legislation to reduce planning obligations on developers and to make it easier to drop affordable housing requirements if schemes are struggling with their finances.
 
-At the same time Local authorities and the planning inspectorate have been encouraged to be be accommodating to developers and help them to bring forward development by lowering the burden of planning obligations. 
+At the same time local authorities and the planning inspectorate have been encouraged to be flexible and help developers to bring forward development by lowering the burden of planning obligations. 
 
 The policy has had a real impact on the delivery of affordable housing in particular. In 2013 a [study](https://www.thebureauinvestigates.com/2013/09/18/thousands-of-affordable-homes-axed/) by the Bureau of Investigative Journalism found that 60% of new developments across the country are failing to meet their affordable housing targets. In every case this was because developers claimed that the profitability of their schemes was so marginal that it was simply not possible to build the required amount of affordable housing.
 
-But it is not just affordable housing where this policy has had an impact. Planning authorities can and frequently do allow all sorts of other planning obligations to be relaxed in order to help a developer make a scheme more financially viable. 
+But it is not just affordable housing where this policy has had an impact. Planning authorities can and frequently do allow all sorts of other planning obligations to be relaxed in order to help a developer make a scheme more financially viable. This includes restrictions on the height of buildings and can have a significant effect on the preservation of historic buildings.
 
 ##Controversy
 
@@ -18,7 +18,7 @@ This concern was articulated in a detailed [article]( https://www.theguardian.co
 
 >"In the last decade, London has lost 8,000 social-rented homes. Under the Tory-led coalition, the amount of affordable housing delivered across the country fell by a third – from 53,000 homes completed in 2010 to 36,000 in 2014. Much of the reason lies hidden in these developers’ viability assessments and the dark arts of accounting, which have become all-powerful tools in the way our cities are being shaped."[^]
 
-Planning authorities have also raised concerns. Islington council in January 2016 published a supplementary planning document on development viability. 
+Planning authorities have also raised concerns. Islington council in January 2016 published a supplementary planning document on development viability. On the publication of the document the authority said that they had been compelled to publish guidance following attempts to undermine the development plan through inappropriate approaches to assessing viability:
 
 >Despite viability becoming a central part of the planning process, there has been relatively wide scope and discretion for how viability matters are dealt with. The council’s experience is that in some instances this has led to the use of inappropriate approaches to assessing viability and this has come into conflict with the principle of sustainable development and the plan-led system. 
 
@@ -26,9 +26,9 @@ The previous Mayor, Boris Johnson at a mayoral question time referred to viabili
 
 >We believe there is therefore a compelling case to revise national planning policy and guidance to ensure that individual viability assessments do not systematically undermine the delivery of affordable housing and other planning obligations.
 
-The suspicion around the process is exacerbated by the secrecy surrounding the system. 
+The suspicion around the process is exacerbated by the secrecy surrounding the system. Frequently on development applications, the public and even the decision makers themselves will be asked to trust the work of surveyors in their determination of a schemes viability. They are unable to check for themselves as the documentation is kept secret. 
 
-##A system broken
+##A system broken by misconduct
 These authorities are right to be concerned. Over several years investigating the development industry I have collected evidence which demonstrates serious issues in the professional conduct of surveyors involved in the financial viability system.  
 
 This evidence has led me to the opinion that some leading firms of surveyors are have developed a practice of creating fraudulent valuations for the purpose of helping their clients to negotiate away planning constraints on their sites.
