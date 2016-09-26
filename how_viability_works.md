@@ -9,8 +9,13 @@ What should be included in the FVA is set out in government guidance \(The Natio
 Most developers will general use established financial modeling software in order to construct their FVA. One model, called the Three Dragons Toolkit, was developed by the Mayor of London around ten years ago, others, such as Argus developer are sold on a commercial licence. 
 
 ## What is financially viable 
+At its heart financial viability in planning is a simple process. 
 
-In order for the development to be viable, the money left over after the costs have been subtracted from the revenues must be enough to hit two numbers or viability benchmarks:
+David Henry of Savills, who appeared on behalf of Royal Institution of Chartered Surveyors recently told the Environment Select Committee of the House of Lords:
+
+>"Many people become rather scared of this issue of viability. What is it? Essentially, it is a simple financial equation. There are many ways of approaching that equation. There is a disposal price, a sale price, a cost of construction, a total development cost, and a residual sum — a land value or whatever it is. Viability comes into this discussion when changes in the total development cost impact on one or other of those outriggers, whether it is the sale price or the residual land value; something gives somewhere in the equation."
+
+Put very simply the viability equation is the revenues of the scheme minus the cost. If number that comes out at the end of that process allows the developer to meet two financial benchmarks then the scheme is viable. Those benchmarks are:
 
 1. Enough profit for the developer to attract investors to finance the project
 2. Enough money to persuade the land owner to part with their land
