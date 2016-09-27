@@ -1,3 +1,8 @@
+#Profit at the Shell Centre
+The Shell Centre is a £1.6bn redevelopment of the Shell International Petroleum Corporation's Headquarters on London's South Bank. The scheme will add more than 800 new homes to the site. Lambeth Council requires that on new housing developments 40% is provided as affordable housing. 
+
+The development was approved by Lambeth Council in May 2013 and was called in by the Secretary of State later that year. A public inquiry was held in December of 2013, I challenged the decision in the High Court in 2014 and the development finally received permission in 2015.
+
 The developers at the Shell Centre used an Internal Rate of Return profit benchmark in their FVA. Their consultants, Quod, Knight Frank and Savills, made the claim that the required profit level on the scheme to achieve financial viability was an ungeared IRR of 20%. 
 
 ##Debt and equity
