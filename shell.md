@@ -1,6 +1,4 @@
 #Shell
-Quod, a planning consultancy acting for the developer submitted a financial viability assessment (FVA) with the application which claimed that the development was so financially unviable that no affordable hosuing was possible on the site. Regardless the developer was prepared to offer 10% on site and 10% offsite as a sign of goodwill. 
-
 The FVA was based on estimates of the sales values of the new apartments produced by Knight Frank and Savills. This claimed that the new flats on the site would sell for an average of £1275 per square foot.
 
 The study was checked by BNP Paribas on behalf of the local council. This agreed with the general premise that the building was unviable but thought the valuation to be a bit low. The document also reveals that Knight Frank and Savills put their case for the £1275 valuation forcefully. 
