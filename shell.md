@@ -1,5 +1,5 @@
 #Shell
-The FVA was based on estimates of the sales values of the new apartments produced by Knight Frank and Savills. This claimed that the new flats on the site would sell for an average of £1275 per square foot.
+The estimates of sales values of the new apartments at the Shell Centre were produced by Knight Frank and Savills. This claimed that the new flats on the site would sell for an average of £1,275 per square foot.
 
 The study was checked by BNP Paribas on behalf of the local council. This agreed with the general premise that the building was unviable but thought the valuation to be a bit low. The document also reveals that Knight Frank and Savills put their case for the £1275 valuation forcefully. 
 
@@ -7,18 +7,41 @@ However, unknown to the council or anyone else, at the same time, Knight Frank a
 
 The second valuation was not disclosed to the planning authorities, it was only revealed after a presentation to investors was leaked to objectors to the scheme shortly before the public inquiry. 
 
-After the second valuation had been revealed Mr John Rhodes, for Quod, who was giving evidence on this matter at the public inquiry in late November 2013, claimed that the difference could be attributed to timing. The lower valuation was based on current values, the investors presentation was looking at possible future values. 
+After the second valuation had been revealed Mr John Rhodes, for Quod, who was giving evidence on this matter at the public inquiry in late November / early December 2013, claimed that the difference could be attributed to timing. The lower valuation was based on current values, the investors presentation was looking at possible future values. 
 
 This was an unlikely explanation. The investors presentation listed the values as 'sales prices'. Another slide demonstrated that at the time the presentation was produced in February 2013, the developers were planning to put the new flats on the market in July of that year.
 
-Even if we take into account that the origional FVA was submitted in December 2012 with the planning application, then Quod seem to have been a 60% per year in sales values in London.  
+Even if we take into account that the origional FVA was submitted in December 2012 with the planning application, then Quod seem to have been expecting a 30% increase in sales prices in 6 months, a 60% per year rise. Even in the white heat of the London property market that seems scarcely credible.  
 
 Neither did the explanation seem to tally with other data from the local housing market. 
 
-CBRE, another surveyor, had published a report which said that at prime locations in the South Bank values had already achieved an average of £2000 per square foot.  The Shell Centre is one of the most desirable locations in the area. 
+CBRE, another surveyor, had published a report which said that at prime locations in the South Bank values had already achieved an average of £2,000 per square foot.  The Shell Centre is one of the most desirable locations in the area. 
 
-In any event in April 2013, four months before Knight Frank and Savills had told investors that they were expecting to go to market at an average sales value of £1640 per square foot, Quod submitted an updated apraisal. This appears to contain a per square foot valuation of £1,205 per square foot.
+In any event in April 2013, four months before Knight Frank and Savills had told investors that they were expecting to go to market at an average sales value of £1640 per square foot, Quod submitted an updated appraisal.  That assessment took on board some of the criticisms of the BNP review of the original FVA. Although it did not include higher sales prices for apartments as had been reccomended by BNP. In fact, an analysis of this viability appraisal appears to show that they used an even lower valuation of £1,205 per square foot for this appraisal.
 
+In addition, it is important to understand that when a Secretary State calls in a planning application they are taking over consideration of the application and making their own decision.  
+
+This process requires the applicant to submit the original planning application and any other further documentation they want to make their case to a government inspector. 
+
+The RICS guidance states that where there is a planning inquiry, then the date of the viability assessment should be taken as the date of the submission of written representations. 
+
+There are occasions where the appraisals
+will require revisions. In certain circumstances,
+as a result of, for example, fundamental market
+changes or changes in density of the scheme,
+between submission of the viability
+assessment, application and consideration by
+the planning authority, it will be necessary to
+review and update the appraisal. This should,
+however, relate to changes in the market, or
+changes specific to the scheme, that would not
+have been known at the time of the original
+submission. Where there is a planning appeal,
+the date should be agreed between the parties
+or taken as the date of the hearing/written
+representations.
+
+the BNP review of the viability assessment was the only evidence submitted by the application. 
 
 ##The real values
 
