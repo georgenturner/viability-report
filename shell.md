@@ -25,40 +25,26 @@ This process requires the applicant to submit the original planning application 
 
 The RICS guidance states that where there is a planning inquiry, then the date of the viability assessment should be taken as the date of the submission of written representations. 
 
-There are occasions where the appraisals
-will require revisions. In certain circumstances,
-as a result of, for example, fundamental market
-changes or changes in density of the scheme,
-between submission of the viability
-assessment, application and consideration by
-the planning authority, it will be necessary to
-review and update the appraisal. This should,
-however, relate to changes in the market, or
-changes specific to the scheme, that would not
-have been known at the time of the original
-submission. Where there is a planning appeal,
-the date should be agreed between the parties
-or taken as the date of the hearing/written
-representations.
+>There are occasions where the appraisals will require revisions. In certain circumstances,
+as a result of, for example, fundamental market changes or changes in density of the scheme,
+between submission of the viability assessment, application and consideration by the planning authority, it will be necessary to review and update the appraisal. This should, however, relate to changes in the market, or changes specific to the scheme, that would not have been known at the time of the original submission. **Where there is a planning appeal, the date should be agreed between the parties or taken as the date of the hearing/written representations.** [Emphasis added]
 
-the BNP review of the viability assessment was the only evidence submitted by the application. 
+In the Shell Centre case the hearings started in late November 2013, and the BNP review of the viability assessment was the only evidence submitted by the applicant. Mr Rhodes of Quod gave evidence at the inquiry and signed a statement of truth confirming the applicant's case on the the viability position. The only conclusion that we can draw from this is that Mr Rhodes, a RICS registered surveyor was happy to accept the £1,275 as current on the day the hearings started. The investors presentation was submitted to the inquiry the day after it started, and so the developer was not aware their second valuation was going to be revealed when they made their submissions. When that presentation was revealed, Mr Rhodes continued to hold that the figures in it were not relevant to a current day analysis of the scheme.  
 
 ##The real values
 
-When the flats went on sale just a few months later the values which Quod, Knight Frank and Savills claimed were 'future possible values' ended up looking very conservative. 
+When the flats went on sale just a few months after the scheme was finally granted permission in 2015 the values which Quod, Knight Frank and Savills claimed were 'future possible values' ended up looking very conservative. 
 
-The Shell Centre is being sold in phases. The first building put on the market in September 2015 was tehn called One York Square. It appears to have now changed its name to One Casson Square. According to the Shell Investor presentation, which was Knight Franks and Savills of 'future sales values' One Casson Square could achieve sales values of £1,416 psf on average.  
+The Shell Centre is being sold in phases. The first building was put on the market in September 2015 and called One York Square. It appears to have now changed its name to One Casson Square. According to the Shell Investor presentation, which was Knight Franks and Savills of 'future sales values' One Casson Square could achieve sales values of £1,416 psf on average.  
 
-When I checked the website for the new Shell Centre development, 'Southbank Place', sales values of apartments at One Casson Square ranged between £1800 and £2000 per square foot.
+When I checked the website for the new Shell Centre development, 'Southbank Place', sales values of apartments at One Casson Square ranged between £1,800 and £2,000 per square foot.
 
-But that was just the cheapest residential building at the back of the site. In April 2016 Southbank Place had it's Hong Kong launch! To celebrate, the developer put on the market Thirty Casson Square.
-
-The Southbank Place ‘Masterplan’ the residential buildings currently on sale are clustered to the back right of the picture, in the least desirable part of the development
+In April 2016 Southbank Place had it's Hong Kong launch. To celebrate, the developer put on the market Thirty Casson Square.
 
 In the origional Shell Centre FVA thirty Casson Square is valued at £1,254 per square foot on average. The investors presentation, which Mr Rhodes claimed before a planning inspector was based on estimates of future values, put the building at £1,469 psf.
 
-But the sales values being marketed in Hong Kong? The Shell Centre website lists the currently available apartments. In April 2016 apartment 204, on level 2, the bottom of the building was on sale for £900,000. That is £1,404 per square foot.
+But the sales values being marketed in Hong Kong? In April 2016 apartment 204, on level 2, the bottom of the building was on sale for £900,000. That is £1,404 per square foot.
 
 Apartment 2303 is on the 23rd floor. It went on the market for £2m or £1,940 per square foot. In fact the cheapest apartment for sale on the website, a tiny 394 sq foot studio apartment (yours for just £655,000) came in at £1,662 per square foot.
 
-The only reasonable conclusion to draw from this evidence is that the investors presentation was not a prediction of future values. In fact, the investors presentation was a reflection of the expected sales prices in July 2013, when the Shell Centre was expected to go on the market. The conclusion that flows from this is that the figures inputted into the viability assessment were deliberately underestimated by Knight Frank, Savills and Quod, in order to produce an unrealistically pessamistic picture of the real financial viability of the scheme. 
+The only reasonable conclusion to draw from this evidence is that the investors presentation was not a prediction of future values. In fact, the investors presentation was a reflection of the expected sales prices in July 2013, when the Shell Centre was expected to go on the market. The conclusion that flows from this is that the figures inputted into the viability assessment were deliberately underestimated by Knight Frank, Savills and Quod, in order to produce an unrealistically pessamistic picture of the real financial viability of the scheme. To make matters worse the surveyors in this case were prepared to argue that case before a Secretary of State's planning  inquiry and eventually see that case argued before a judge at the High Court. 
