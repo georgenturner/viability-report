@@ -12,7 +12,7 @@ Clearly the setting of the benchmark land value between the council and the deve
 
 Two major developments in Southwark provide striking examples of inflated benchmark land values. 
 
- * In 2008 a developer convinced Southwark Council that its 'Tribeca Square' site was worth £18m - £10m more than it had actually paid for the site a year earlier.
+ * In 2008 a developer convinced Southwark Council that its ['Tribeca Square'](http://35percent.org/tribeca-square/) site was worth £18m - £10m more than it had actually paid for the site a year earlier.
  * In 2013 a developer convinced Southwark that its development site at Surrey Quays (Decathlon site) was worth £25m, having paid just £500k for the site 10 years prior.
 
 We could maybe say something here about our idea of tightening up the rules on the methodology for calculating EUV - i.e. that the capitalised rateable value should be used. (Rateable values being obtained from the local authority's rates calculation figures on file for any given site.)
