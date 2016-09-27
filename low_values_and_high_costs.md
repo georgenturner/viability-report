@@ -1,6 +1,6 @@
 # Low values and high costs
 
-Although developers inisit that financial viability in planning must be measured on 'current day values' meaning that any future house price inflation is discounted, they are far more relaxed when it comes to the timing of costs estimates. 
+Although developers insist that financial viability in planning must be measured on 'current day values' meaning that any future house price inflation is discounted, they are far more relaxed when it comes to the timing of costs estimates. 
  
 ##Kings College
 
@@ -22,13 +22,13 @@ Some of the existing buildings on the site have been used by local community gro
 
 ##Housing
 
-King's and Mount Anvil plan to build 156 new homes on the site but of course, they are unable to provide the required level of affordable housing. Their planning consultant, Quod, has submitted a viability report which they say shows that the development is so unprofitable that it cannot sustain any affordable housing at all. However, in any event, King's is prepared to offer 20% affordable housing, against a Camden policy requirement of 50%.
+King's and Mount Anvil plan to build 156 new homes on the site but of course, they are unable to provide the required level of affordable housing. Their planning consultant, Quod, submitted a viability report which they say shows that the development is so unprofitable that it cannot sustain any affordable housing at all. However, in any event, King's is prepared to offer 20% affordable housing, against a Camden policy requirement of 50%.
 
 If the viability report submitted by Quod on behalf of King's is to believed, then one does have to wonder why King's are going ahead with this at all. To be 'financially viable' for a land owner a development must generate enough cash in order to pay for the land in its existing use, plus a small uplift.
 
 The existing use is a student halls. The students pay rent and presumably, King's would be able to sell the land to another provider of student housing (of which there are many) and gain a lump sum, if that is what they wanted.
 
-What Quod's financial viability report is saying, is that after you have accounted for the developer's profit, and the cost of building, the money left over from the sale of the new houses on the proposed development is LESS than what King's College could get for selling the building as is. And that is before you include the 20% affordable housing that King's is offering, which further reduces the land value. The obvious conclusion of the Quod report is that King's should sell the land to another provider of student housing, a much quicker and easier transaction than developing the land.
+What Quod's financial viability report is saying, is that after you have accounted for the developer's profit, and the cost of building, the money left over from the sale of the new houses on the proposed development is less than what King's College could get for selling the building as is. And that is before you include the 20% affordable housing that King's is offering, which further reduces the land value. The obvious conclusion of the Quod report is that King's should sell the land to another provider of student housing, a much quicker and easier transaction than developing the land.
 
 So why are King's getting involved with this apparently unprofitable venture? Is this a charitable act by King's for the world's oligarchs? Are King's seeking to play their part in meeting the desperate demand for luxury homes with private swimming pools?
 
@@ -36,7 +36,7 @@ No, as usual the viability report submitted to the council appears not to provid
 
 ##Today's prices, tomorrow's costs
 
-Camden Council hired BPS Surveyors to assess the viability assessment produced by Quod. Their detailed report is reprinted with the Council papers, a level of transparency sadly never seen in othe boroughs.
+Camden Council hired BPS Surveyors to assess the viability assessment produced by Quod. Their detailed report is reprinted with the Council papers, a level of transparency sadly never seen in other boroughs.
 
 The report from BPS shows Quod employing a number of mechanisms to artificially lower the profitability of the scheme.
 
@@ -46,7 +46,6 @@ When working out the revenue of the scheme, Quod used residential sales prices t
 
 It is quite impossible to understand how anyone could think this was a reasonable methodology for working out the profitability of the scheme. If anything the way inflation is treated should be reversed as developers generally build housing before it is sold. At a minimum the costs and sales prices should be assessed at the same time (which is government policy and RICS guidance).
 
-
 Other issues raised by BPS include an overly ambitious assumption of what King's might be able to get for the land if it was sold in its current use, and other increases in costs.
 
-The example at Kings College is not the only place where Quod have deployed such tactics. At the Shell Centre BNP Paribas also noted that the viability assessment included a construction costs inflation allowance of £80m, despite Quod's insistence that the viability assessment should be completed on the basis of current day sales values.  
+The example at Kings College is not the only place where Quod have deployed such tactics. At the Shell Centre BNP Paribas also noted that the viability assessment included a construction costs inflation allowance of £80m, despite Quod's insistence that the viability assessment should be completed on the basis of current day sales values.
