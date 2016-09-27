@@ -8,5 +8,12 @@ Where the FVA outputs a land value then financial viability is achieved if the n
 
 That benchmark is usually the value of the land in its existing use. The logic is that if a landowner can get more money from selling the land to be developed than if they sold the land in its existing use, then they will sell it to a developer and the development is financially viable.
 
-Clearly the setting of the benchmark land value between the council and the developer is a crucial part of the viability process. If the developer manages to convince the council that the current use value of the site is higher than it actually is, then financial viability will be more difficult to achieve and planning obligations could be removed unnecessarily. 
+Clearly the setting of the benchmark land value between the council and the developer is a crucial part of the viability process. If the developer manages to convince the council that the current use value of the site is higher than it actually is, then financial viability will be more difficult to achieve and planning obligations could be removed unnecessarily.
+
+Two major developments in Southwark provide striking examples of inflated benchmark land values. 
+
+ * In 2008 a developer convinced Southwark Council that its 'Tribeca Square' site was worth £18m - £10m more than it had actually paid for the site a year earlier.
+ * In 2013 a developer convinced Southwark that its development site at Surrey Quays (Decathlon site) was worth £25m, having paid just £500k for the site 10 years prior.
+
+We could maybe say something here about our idea of tightening up the rules on the methodology for calculating EUV - i.e. that the capitalised rateable value should be used. (Rateable values being obtained from the local authority's rates calculation figures on file for any given site.)
 
