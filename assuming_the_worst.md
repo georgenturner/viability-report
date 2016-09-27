@@ -12,7 +12,7 @@ Think again! Why should an FVA use those real values, when an assumed value may 
 
 ##Heygate
 
-The Heygate was a Southwark Council owned estate in the Elephant and Castle. In 2010 the council signed a development agreement with Lend Lease to demolish all 1,200 homes on the site and rebuild the estatate to a higher density and with more homes. 
+The Heygate was a Southwark Council owned estate in the Elephant and Castle. In 2010 the council signed a development agreement with Lend Lease to demolish all 1,200 homes on the site and rebuild the estate to a higher density and with more homes. 
 
 Over 1,000 council tenants were moved off the Heygate, but lend lease claimed that it would only be viable to replace 83 homes on the new estate at social rents. A viabiliy assessment was produced by Lend Lease to support their claim. Savills were the consultant employed by Lend Lease to provide many the valuations for the FVA. 
 
@@ -28,7 +28,7 @@ Clearly the cost of buying the properties off existing residents was a cost of t
 
 In this case the developers knew what this cost would be in many of the cases before the planning application was made. The council had been planning the regenration of the estate for a long time and had started buying property on the estate in 2004. 
 
-However, when the developer submitted their FVA, they did not base their allowance for the cost of buying the leasholders flats on the real amounts that had been paid, but instead used an 'assumed' valuation which was substantially higher. 
+However, when the developer submitted their FVA, they did not base their allowance for the cost of buying the leasholders flats on the real amounts that had been paid, or even the real amounts plus an allowance for inflation, but instead used an 'assumed' valuation which was substantially higher. 
 
 According to freedom of information of requests the average amount paid to leaseholders at the Heygate was as follows: 
 
@@ -40,10 +40,10 @@ According to freedom of information of requests the average amount paid to lease
 However, Savills assumed values in the FVA stated the following amounts: 
 ![](/assets/HeygateViabilityAssessment_leaseholdvalues.png)
 
-As is clear, the values assumed by Savills were in most cases around £100,000 per unit higher than the real amounts paid. This has the effect of artificially supressing the viability of the scheme, as the costs in the scheme would be larger than the acutal costs of the development. 
+As is clear, the values assumed by Savills were in most cases around £100,000 per unit higher than the real amounts paid. This has the effect of artificially suppressing the viability of the scheme, as the costs in the scheme would be larger than the acutal costs of the development. Again this simply can not be dismissed as a timing difference. Although Southwark council stated buying homes on the estate in 2004 in 2011 the Council was still paying £115,000 for a two bedroom flat on the estate. 
 
 What is particularly galling about this case is that the council insisted that prices being offered were in line with market rates, and fought leaseholders who thought they should have been offered more. 
 
-However, when it came to determining the viability of building new affordable homes the developer was insisting that the market rates were much higer. 
+However, when it came to determining the viability of building new affordable homes the developer was insisting that the market rates of the costs were much higher. 
 
 Whichever valuation was the correct one, someone was getting screwed. 
