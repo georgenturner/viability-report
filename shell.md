@@ -17,7 +17,7 @@ Neither did the explanation seem to tally with other data from the local housing
 
 CBRE, another surveyor, had published a report which said that at prime locations in the South Bank values had already achieved an average of £2,000 per square foot.  The Shell Centre is one of the most desirable locations in the area. 
 
-In any event in April 2013, four months before Knight Frank and Savills had told investors that they were expecting to go to market at an average sales value of £1640 per square foot, Quod submitted an updated appraisal.  That assessment took on board some of the criticisms of the BNP review of the original FVA. Although it did not include higher sales prices for apartments as had been reccomended by BNP. In fact, an analysis of this viability appraisal appears to show that they used an even lower valuation of £1,205 per square foot for this appraisal.
+In any event in April 2013, four months before Knight Frank and Savills had told investors that they were expecting to go to market at an average sales value of £1640 per square foot, Quod submitted an updated appraisal.  That assessment took on board some of the criticisms of the BNP review of the original FVA. Although it did not include higher sales prices for apartments as had been recommended by BNP. The only conclusion we can draw from this is that in April 2013 the surveyors were signalling to the planning authority that they were happy to stand by the £1,275 valuation.
 
 In addition, it is important to understand that when a Secretary State calls in a planning application they are taking over consideration of the application and making their own decision.  
 
