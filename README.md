@@ -1,6 +1,6 @@
 #Introduction
 
-The UK is struggling to housing itself. The country is experiencing a deep and prolonged housing crisis which has put housing and planning at the top of the political agenda. 
+The UK is struggling to house itself. The country is experiencing a deep and prolonged housing crisis which has put housing and planning at the top of the political agenda. 
 
 Politicians and policy makers are all clear that that the answer lies in building more homes. To support this they have passed legislation to reduce planning obligations on developers and to make it easier to drop affordable housing requirements if schemes are struggling with their finances.
 
