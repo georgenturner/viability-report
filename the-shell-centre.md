@@ -1,4 +1,5 @@
 #The land at the shell centre
+
 Savills, this time teaming up with Knight Frank, adopted a similarly unorthodox approach when it came to land values on their proposals to redevelop the Shell Centre.
 
 Again, in this case the developer rejected the current use value approach, and instead chose a land value benchmark based on the current use value of scheme which had been granted planning permission but had not been built. 
