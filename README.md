@@ -1,14 +1,16 @@
 #Introduction
 
-The UK is struggling to house itself. The country is experiencing a deep and prolonged housing crisis which has put housing and planning at the top of the political agenda. 
-
-Politicians and policy makers are all clear that that the answer lies in building more homes. To support this they have passed legislation to reduce planning obligations on developers and to make it easier to drop affordable housing requirements if schemes are struggling with their finances.
+Politicians and policy makers are all clear that that the answer to the current housing crisis lies in building more homes. To support this they have passed legislation to reduce planning obligations on developers and to make it easier to drop affordable housing requirements if schemes are struggling with their finances.
 
 At the same time local authorities and the planning inspectorate have been encouraged to be flexible and help developers to bring forward development by lowering the burden of planning obligations. 
 
-The policy has had a real impact on the delivery of affordable housing in particular. In 2013 a [study](https://www.thebureauinvestigates.com/2013/09/18/thousands-of-affordable-homes-axed/) by the Bureau of Investigative Journalism found that 60% of new developments across the country are failing to meet their affordable housing targets. In every case this was because developers claimed that the profitability of their schemes was so marginal that it was simply not possible to build the required amount of affordable housing.
+The policy has had a real impact on the delivery of affordable housing in particular. In 2013 a [study](https://www.thebureauinvestigates.com/2013/09/18/thousands-of-affordable-homes-axed/) by the Bureau of Investigative Journalism found that 60% of new developments had taken advantage of the increased flexibility in the planning system to drop affordable housing targets. In every case this was because developers claimed that the profitability of their schemes was so marginal that it was simply not possible to build the required amount of affordable housing.
 
 But it is not just affordable housing where this policy has had an impact. Planning authorities can and frequently do allow all sorts of other planning obligations to be relaxed in order to help a developer make a scheme more financially viable. This includes restrictions on the height of buildings and can have a significant effect on the preservation of historic buildings.
+
+##Viability 
+
+Th
 
 ##Controversy
 
