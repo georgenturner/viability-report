@@ -1,4 +1,4 @@
-# Financial viability and planning
+# What is Financial viability in planning
 
 When planning authorities decide on whether or not a development should be granted permission to build they must by law determine the application in in line with the development plan. If it does not, the planning authority can reject the application. If an application is in accordance with the plan, the planning authority must approve it.  
 
