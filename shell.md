@@ -50,3 +50,5 @@ But the sales values being marketed in Hong Kong? In April 2016 apartment 204, o
 Apartment 2303 is on the 23rd floor. It went on the market for £2m or £1,940 per square foot. In fact the cheapest apartment for sale on the website, a tiny 394 sq foot studio apartment (yours for just £655,000) came in at £1,662 per square foot.
 
 The only reasonable conclusion to draw from this evidence is that the investors presentation was not a prediction of future values. In fact, the investors presentation was a reflection of the expected sales prices in July 2013, when the Shell Centre was expected to go on the market. The conclusion that flows from this is that the figures inputted into the viability assessment were deliberately underestimated by Knight Frank, Savills and Quod, in order to produce an unrealistically pesamistic picture of the real financial viability of the scheme. To make matters worse the surveyors in this case were prepared to argue that case before a Secretary of State's planning inquiry and eventually see that case argued before a judge at the High Court. 
+
+Add conclusions of the inspector
