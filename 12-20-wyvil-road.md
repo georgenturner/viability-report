@@ -3,19 +3,22 @@
 
 12-20 Wyvil Road site comprises of a small 1950s office building and an old hall used as a roller disco. The development proposed is a tower which includes 219 apartments and office space. 
 
-It is difficult to image how land used for high end luxury housing could be worth less than land used for a clapped out low rise office building, but that is the case that the developer, and Savills, their consultants, made to Lambeth Council when requesting whether it could build fewer affordable housing units that were necessary to meet local need.
+In this case the developer requested that the council drop some of their affordable housing obligation. The argument put by the developer was that the development would not generate enough profit to meet the benchmark land value of £30m.
 
-The trick was all in the land value benchmark chosen - £30m, which was not the existing use value of the site. Indeed, it would have been extremely difficult to convince anyone, even Lambeth's accomodating planners, that the buildings on the site (pictured above) in their existing use were worth £30m! Instead the benchmark proposed was what developers claimed was the “market value” of the site.
+It is difficult to imagine how land used for high end luxury housing could be worth less than land used for a clapped out low rise office building, indeed even Lambeth's accommodating planners would struggle to accept that the buildings in their existing use were worth that much.  
 
-The use of market value rather than current use value as a benchmark has some support from RICS, although the practice is controvertial and there is some conflict between the approach taken by RICS and government at various levels. 
+The trick was that in this case the developer did not propose the usual existing use value of the site as a target land value, instead the benchmark proposed was what developers claimed was the “market value” of the site.
+
+The use of market value rather than current use value as a benchmark has some support from RICS, although the practice is controversial. There is some conflict between the approach taken by RICS and government at various levels. 
 
 The fear is that if the current market for land is being inflated by unrealistic expectations from developers then developers can overpay for the land and the council will be compelled to drop planning obligations to help them make up the deficit.
 
-The figure that should never be used as a benchmark is the actual price paid by the developer for similar reasons. If that benchmark is used then viability will only be achieved if the development meets the amount of money the developer chose to pay. And if the developer paid too much then the planning obligations will give way. The developer knowing this can bid more for the land, knowing that they will be able to achieve the excess profit required by getting rid of planning obligations. 
+The figure that should never be used as a benchmark is the actual price paid by the developer for similar reasons. If that benchmark is used then viability will only be achieved if the development meets the amount of money the developer chose to pay. And if the developer paid too much then the planning obligations will give way. The developer can bid more for the land, knowing that they will be able to achieve the excess profit required by getting rid of planning obligations. The process becomes a one way bet for the developer. 
 
-For these reasons RICS puts an important qualification on the use of market value. When it is used as a benchmark the value should take into account the cost of meeting all planning obligations.
+To guard against this RICS puts an important qualification on the use of market value. When it is used as a benchmark the value should take into account the cost of meeting all planning obligations.
 
 The government also stresses the importance of this in their NPPG, which says:
+
 > In all cases, land or site value should:
 > reflect policy requirements and planning obligations and, where applicable, any Community Infrastructure Levy charge.  
 
@@ -26,9 +29,7 @@ In the examples they used, the extra money the development could generate from d
 With this benchmark, achieving a development with a full complement of affordable housing would be impossible. The developer set themselves an impossible task, failed and then asked the council to help them at everybody else's expense.
 
 ##Profit
-Using land values in this way was hugely profitable for the developer and the land owner. On my calculations if the council had insisted on doing the viability assessment on the basis of an existing use value the benchmark figure would have been around £2.7m, rather than the £30m they used. 
-
-This figure is arrived at by looking at Vauxhall Sky Gardens, the neighbouring site which is next door to 12-20 Wyvil Road. The Vauxhall Sky Gardens (VSG) site had similar industrial buildings on it, and in the viability study submitted to the council it valued the exiting use value of the site at £900,000. The site is also just one third of the size of the 12-20 Wyvil Road site. If we take the existing use value of the VSG site and multiply by three we get a ballpark figure of £2.7m. That is, less than ten times the benchmark used on the 12-20 Wyvil Road application. 
+Using land values in this way was hugely profitable for the developer and the land owner. Based on the existing use value of the next door site, which contained similar, old commercial buildings, an appropriate benchmark figure would have been around £2.7m, rather than the £30m they used.[^]  
 
 Had the council insisted on using the existing use value of the site at 12-20 Wyvil Road, it is obvious that they could have insisted on much more affordable housing, and a lower profit for the landowners and developers. 
 
