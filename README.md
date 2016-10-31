@@ -8,8 +8,6 @@ The policy has had a real impact on the delivery of affordable housing in partic
 
 But it is not just affordable housing where this policy has had an impact. Planning authorities can and frequently do allow all sorts of other planning obligations to be relaxed in order to help a developer make a scheme more financially viable. This includes restrictions on the height of buildings and can have a significant effect on the preservation of historic buildings.
 
-For example, at the Shell Centre in Central London Shell and Canary Wharf Group proposed to build several tall buildings on the banks of the River Thames in the setting of the Westminster World Heritage Site. This application was made at a time when UNESCO had voiced increasing concern at impact of tall buildings on the World Heritage Site. During the application process planners at Lambeth asked to Canary Wharf Group to provide an alternative design for the scheme with smaller buildings. Jason Larkin, Head of Planning for Canary Wharf Group replied "" the scheme went onto be approved by the council after a positive recommendation from officers. 
-
 ##Controversy
 For some time the financial viability policy has become increasingly controversial. There has been a concern that the process has been used to allow developers to avoid planning requirements unjustifiably. Developers claim that their schemes are financially unviable in order to persuade a planning authority to drop planning obligations, when in reality they could have been met. The result of this is that developers get to increase their profits at the expense of important social needs such as affordable housing, open spaces and our historic environment.
 
