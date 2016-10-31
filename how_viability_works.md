@@ -2,11 +2,13 @@
 
 The key document in the financial viability system is the financial viability assessment (FVA). 
 
-If a developer wants to request that a planning authority remove planning obligations (affordable housing, childrens' playspace, restrictions on rooms being too small), they submit an FVA to the council which demonstrates why the development is unviable. An FVA sets out the revenues a development is expected to make and the cost of building it.
+If a developer wants to request that a planning authority remove planning obligations (affordable housing, childrens' playspace, restrictions on rooms being too small), they submit an FVA to the council which demonstrates why the development is unviable. 
+
+An FVA sets out the revenues a development is expected to make, the cost of building it and the expected profit.
 
 Guidelines for how an FVA should be put together is provided by the government in the The National Planning Policy Guidance (NPPG) and also the Royal Institute of Chartered Surveyors (RICS) 
 
-Most developers will general use established financial modeling software in order to construct their FVA. One model, called the Three Dragons Toolkit, was developed by the Mayor of London around ten years ago, others, such as Argus developer are sold on a commercial licence. 
+Most developers will use established financial modeling software in order to construct their FVA. One model, called the Three Dragons Toolkit, was developed by the Mayor of London around ten years ago, others, such as Argus developer are sold on a commercial licence. 
 
 ## What is financially viable 
 At its heart financial viability in planning is a simple process. 
