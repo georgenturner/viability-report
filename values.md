@@ -1,7 +1,9 @@
 #Residental sales values
 Underestimating the sales values of new apartments on the development is one of the simplest ways of manipulating a FVA. A lower valuation will mean lower profits and a less viable building.
 
-To achieve this outcome, the evidence shows that when acting on behalf of a client, the surveyor will produce two separate valuations for the residential units on a new development. A lower valuation is used as an input into FVA and makes the proposal look less viable. 
+To achieve this outcome, when acting on behalf of a client, the surveyor will produce two separate valuations for the residential units on a new development. 
+
+A lower valuation is used as an input into FVA and makes the proposal look less viable. 
 
 A second valuation is used to sell the scheme to investors and shows a more realistic picture of scheme viability. The existence of the second valuation demonstrates that he valuation produced for the investor presentation was not an honest valuation on the part of the surveyor, but was created for the sole purpose of making the scheme look less viable. 
 
