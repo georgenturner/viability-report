@@ -20,4 +20,9 @@ This is primarily achieved through the provision of fewer units of affordable ho
 
 For example, at the Shell Centre in Central London Shell and Canary Wharf Group proposed to build several tall buildings on the banks of the River Thames in the setting of the Westminster World Heritage Site. This application was made at a time when UNESCO had voiced increasing concern at impact of tall buildings on the World Heritage Site. 
 
-During the application process planners at Lambeth asked to Canary Wharf Group to provide an alternative design for the scheme with smaller buildings, mainly due to concerns that the tall buildings would unacceptably impact the daylight to surrounding buildings. Jason Larkin, Head of Planning for Canary Wharf Group replied "I should make clear that cut backs are not an option as it would render the scheme unviable. Its this scheme or nothing."[^] the scheme went onto be approved by the council after a positive recommendation from officers. 
+During the application process planners at Lambeth asked to Canary Wharf Group to provide an alternative design for the scheme with smaller buildings, mainly due to concerns that the tall buildings would unacceptably impact the daylight to surrounding buildings. Jason Larkin, Head of Planning for Canary Wharf Group replied: 
+
+> "I should make clear that cut backs are not an option as it would render the scheme unviable. Its this scheme or nothing."[^] 
+
+
+The scheme went onto be approved by the council after a positive recommendation from officers. 
