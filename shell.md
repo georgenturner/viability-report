@@ -1,4 +1,10 @@
 #Shell
+The Shell Centre is a £1.6bn redevelopment of the Shell International Petroleum Corporation's Headquarters on London's South Bank. The scheme will add more than 800 new homes to the site. Lambeth Council requires that on new housing developments 40% is provided as affordable housing. 
+
+The development was approved by Lambeth Council in May 2013 and was called in by the Secretary of State later that year. A public inquiry was held in December of 2013, I challenged the decision in the High Court in 2014 and the development finally received permission in 2015.
+
+Quod, a planning consultancy acting for the developer submitted a financial viability assessment (FVA) with the application which claimed that the development was so financially unviable that no affordable housing was possible on the site. Regardless the developer was prepared to offer 10% on site and 10% offsite as a sign of goodwill.
+
 The estimates of sales values of the new apartments at the Shell Centre were produced by Knight Frank and Savills. This claimed that the new flats on the site would sell for an average of £1,275 per square foot.
 
 The study was checked by BNP Paribas on behalf of the local council. This agreed with the general premise that the building was unviable but thought the valuation to be a bit low. The document also reveals despite the concerns of the council, Knight Frank and Savills insisted that their £1275 valuation was correct. 
