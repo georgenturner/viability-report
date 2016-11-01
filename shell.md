@@ -48,7 +48,7 @@ When I checked the website for the new Shell Centre development, 'Southbank Plac
 
 In April 2016 Southbank Place had it's Hong Kong launch. To celebrate, the developer put on the market Thirty Casson Square.
 
-In the origional Shell Centre FVA thirty Casson Square is valued at £1,254 per square foot on average. The investors presentation, which Mr Rhodes claimed before a planning inspector was based on estimates of future values, put the building at £1,469 psf.
+In the original Shell Centre FVA thirty Casson Square is valued at £1,254 per square foot on average. The investors presentation, which Mr Rhodes claimed before a planning inspector was based on estimates of future values, put the building at £1,469 psf.
 
 But the sales values being marketed in Hong Kong? In April 2016 apartment 204, on level 2, the bottom of the building was on sale for £900,000. That is £1,404 per square foot.
 
