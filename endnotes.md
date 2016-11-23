@@ -1,3 +1,5 @@
+[^]: http://www.londontenants.org/publications/briefings/AMR%20London%20Plan%202015%20-%20LTF%20analysis.pdf
+
 [^1]: Oliver Wainwright, *Revealed: how developers exploit flawed planning system to minimise affordable housing*, The Guardian, 25 June 2015
 
 [^1]: *See paragraph 4.3.1 of* RICS, Financial Viability in Planning, 1st Edition, (London, 2012)
