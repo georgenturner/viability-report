@@ -1,7 +1,7 @@
 ## 12-20 Wyvil Road
 ![](https://c1.staticflickr.com/9/8833/28407150012_ed1468d827_b.jpg)
 
-12-20 Wyvil Road site comprises of a small 1950s office building and an old hall used as a roller disco. The development proposed is a tower which includes 219 apartments and office space. 
+12-20 Wyvil Road comprises of a small 1950s office building and an old hall used as a roller disco. The development proposed is a tower which includes 219 apartments and office space. 
 
 In this case the developer requested that the council drop some of their affordable housing obligation. The argument put by the developer was that the development would not generate enough profit to meet the benchmark land value of £30m.
 
