@@ -12,3 +12,4 @@ Clearly the setting of the benchmark land value between the council and the deve
 
 A major development in Southwark provids a striking example of how much these benchmarks can be inflated. In 2008 a developer convinced Southwark Council that its ['Tribeca Square'](http://35percent.org/tribeca-square/) site was worth £18m for the purposes of working out the affordable housing obligation - £10m more than it had actually paid for the site a year earlier.
 
+Further examples are produced below. 
