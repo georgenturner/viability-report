@@ -2,7 +2,7 @@
 
 Over the last few years the government has implemented a number of policies designed to encourage private developers to build more homes. The assumption underlying many of the policy proscriptions is that the house building industry is being prevented from meeting the demand for new homes, which is in turn pushing up prices. 
 
-In the eyes of policy makers the main blockage is the planning system. In partiuclar, the development industy has argued that planning requirements, such as the need to provide good quality homes, open spaces, and affordable housing, reduce profits to the point where development is impossible to achieve.
+In the eyes of policy makers the main blockage is the planning system. In partiuclar, the development industy has argued that planning requirements, such as the need to provide good quality homes, open spaces, and affordable housing, reduce profits to the point where development is impossible.
 
 To remedy this government has placed greater emphasis on the financial viability policy, which allows planning authorities to reduce planning obligations, usually the requirement to build affordable housing, if a developer can show that their schemes is struggling with its finances.
 
