@@ -16,7 +16,9 @@ Under the current planning rules if a developer can show that their proposals ar
 
 In other words, if a developer is not achieving an agreed level of profit then the planning authority must subsidise their profits by allowing them to depart from the development plan.
 
-This is primarily achieved through the provision of fewer units of affordable housing, but as the provisions on financial viability have been expanded then more or less any planning obligation is able to be sacrificed if it will increase profits. That means not providing adequate open spaces, childrens’ play spaces, community facilities or damaging historic buildings and the views of historic buildings.
+This is primarily achieved through the provision of fewer units of affordable housing, but as the provisions on financial viability have been expanded then more or less any planning obligation is able to be sacrificed. 
+
+That means not providing adequate open spaces, childrens’ play spaces, community facilities or damaging historic buildings and the views of historic buildings.
 
 For example, at the Shell Centre in Central London Shell and Canary Wharf Group proposed to build several tall buildings on the banks of the River Thames in the setting of the Westminster World Heritage Site. This application was made at a time when UNESCO had voiced increasing concern at impact of tall buildings on the World Heritage Site. 
 
