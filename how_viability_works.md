@@ -4,7 +4,7 @@ The key document in the financial viability system is the financial viability as
 
 An FVA sets out the revenues a development is expected to make, the cost of building it and the expected profit.
 
-If a developer wants to request that a planning authority remove planning obligations they submit an FVA to the council which demonstrates why the development is unviable.
+If a developer wants to request that a planning authority remove planning obligations they submit an FVA to the council.
 
 Guidelines for how an FVA should be put together is provided by the government in the The National Planning Policy Guidance \(NPPG\) and also the Royal Institute of Chartered Surveyors \(RICS\).
 

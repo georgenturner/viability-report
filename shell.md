@@ -4,7 +4,7 @@ The Shell Centre is a £1.6bn redevelopment of the Shell International Petroleum
 
 The development was approved by Lambeth Council in May 2013 and was called in by the Secretary of State later that year. A public inquiry was held in December of 2013, I challenged the decision in the High Court in 2014 and the development finally received permission in 2015.
 
-Quod, a planning consultancy acting for the developer submitted a financial viability assessment \(FVA\) with the application which claimed that the development was so financially unviable that no affordable housing was possible on the site. Regardless the developer was prepared to offer 10% on site and 10% offsite as a sign of goodwill.
+Quod, a planning consultancy acting for the developer submitted a financial viability assessment \(FVA\) with the application which claimed that the development was so financially unviable that no affordable housing was possible on the site. Regardless, the developer was prepared to offer 10% on site and 10% offsite as a sign of goodwill.
 
 The estimates of sales values of the new apartments at the Shell Centre for the FVA were produced by Knight Frank and Savills, two leading firms of surveyors. This claimed that the new flats on the site would sell for an average of £1,275 per square foot.
 
@@ -16,7 +16,7 @@ The second valuation was not disclosed to the planning authorities, it was only 
 
 After the second valuation had been revealed Mr John Rhodes, for Quod, who was giving evidence on this matter at the public inquiry in early December 2013, claimed that the difference could be attributed to timing. The lower valuation was based on current values, the investors presentation was looking at possible future values.
 
-The explanation didn't seem to tally with other data from the local housing market. CBRE, another surveyor, had published a report which said that at prime locations in the South Bank values had already achieved an average of £2,000 per square foot.  The Shell Centre is one of the most desirable locations in the area.
+The explanation didn't seem to tally with other data from the local housing market. CBRE, another surveyor, had published a report which said that at prime locations in the South Bank values had already achieved an average of £2,000 per square foot. The Shell Centre is one of the most desirable locations in the area.
 
 ### Timings
 
@@ -36,13 +36,15 @@ Mr Rhodes of Quod gave evidence at the inquiry and signed a statement of truth c
 
 The investors presentation was submitted to the inquiry the day after it started, and so Mr Rhodes was not aware that the investors valuation was going to be revealed when he submitted his evidence. When that presentation was revealed, Mr Rhodes continued to hold that the figures in it were not relevant to a current day analysis of the scheme.
 
-What was the date of valuation in the investor's presentation? Unhelpfully, Mr Rhodes did not provide any date where he thought that value higher might be achieved, however, the clear inference was that in his view the valuation date was beyond November 2013. 
+Although it was not mentioned at the time, in response to a later complaint to RICS, Quod said that they had looked again at the figures and decided to stay with the origional valuation on the basis of one report which showed a decline prices on the South Bank in one month of 2013.
+
+What was the date of valuation in the investor's presentation? Unhelpfully, Mr Rhodes did not provide any date where he thought that value higher might be achieved, however, the clear inference from the defence deployed was that in his view the valuation date was beyond November 2013. 
 
 This simply did not tally with the investors presentation itself, which listed the values as 'sales prices'. Another slide demonstrated that at the time the presentation was produced in February 2013, the developers were planning to put the new flats on the market in July of that year. At the time, they did not know that the decision would be called in, and so the planning permission delayed. 
 
 The higher valuation of the flats in the investor's presentation, far from being a future valuation which took account of future price inflation, was in fact a valuation for a date before the valuation submitted to the planning authorities.
 
-Despite this, the inspector in the Shell Centre case fell for the ruse.
+Despite this, the inspector in the Shell Centre rejected the arguments put forward by objectors on the basis that BNP Paribas had signed off on the origional viability report. As professional surveyors BNP were to be trusted, and the evidence of mere amateurs was to be rejected. 
 
 ## The real values
 
@@ -60,9 +62,8 @@ But the sales values being marketed in Hong Kong? In April 2016 apartment 204, o
 
 Apartment 2303 is on the 23rd floor. It went on the market for £2m or £1,940 per square foot. In fact the cheapest apartment for sale on the website, a tiny 394 sq foot studio apartment \(yours for just £655,000\) came in at £1,662 per square foot.
 
+These real sales prices put the values of new appartments at the Shell Centre well above the 'future values' 'predicted' in the investors presentation. 
+
 The only reasonable conclusion to draw from this evidence is that the investors presentation was not a prediction of future values. Instead \(as the presentation itself stated\) it set out the expected sales prices in July 2013, when the Shell Centre was expected to go on the market. The actual sales prices achieved were a consequence of price inflation in the London luxury hosuing market between 2013 and 2015. 
 
 The conclusion that flows from this is that the figures inputted into the viability assessment were deliberately underestimated by Knight Frank, Savills and Quod, in order to produce an unrealistically pesamistic picture of the real financial viability of the scheme. To make matters worse the surveyors in this case were prepared to argue that case before a Secretary of State's planning inquiry and eventually see that case argued before a judge at the High Court.
-
-Add conclusions of the inspector
-
