@@ -13,16 +13,24 @@ The use of market value rather than current use value as a benchmark has some su
 
 The fear is that if the current market for land is being inflated by unrealistic expectations from developers then developers can overpay for the land and the council will be compelled to drop planning obligations to help them make up the deficit.
 
-The figure that should never be used as a benchmark is the actual price paid by the developer for similar reasons. If that benchmark is used then viability will only be achieved if the development meets the amount of money the developer chose to pay. And if the developer paid too much then the planning obligations will give way. The developer can bid more for the land, knowing that they will be able to achieve the excess profit required by getting rid of planning obligations. The process becomes a one way bet for the developer. 
+The figure that should never be used as a *benchmark* is the actual price paid by the developer for similar reasons. If that benchmark is used then viability will only be achieved if the development meets the amount of money the developer chose to pay. And if the developer paid too much then the planning obligations will give way. The developer can bid more for the land, knowing that they will be able to achieve the excess profit required by getting rid of planning obligations. The process becomes a one way bet for the developer. 
 
-To guard against this RICS puts an important qualification on the use of market value. When it is used as a benchmark the value should take into account the cost of meeting all planning obligations.
+However, as has been seen from the previous chapter, the real amount paid for land *can* be a useful indicator of the real profitability of the scheme and the confidence (or lack of confidence) the developer has in their viability assessment. 
+
+To guard against the inflation of the land value benchmark RICS puts an important qualification on the use of market value. When it is used as a benchmark the value should take into account the cost of meeting all planning obligations.
 
 The government also stresses the importance of this in their NPPG, which says:
 
 > In all cases, land or site value should:
 > reflect policy requirements and planning obligations and, where applicable, any Community Infrastructure Levy charge.  
 
-That was exactly what did not happen at 12-20 Wyvil Road. Instead of working out an appropriate land value that priced in the cost of building affordable housing, Savills looked at real market transactions and used those values as a benchmark. The problem was that all of the sites they used as comparisons did not meet the council’s planning obligations, particularly in relation to affordable housing. 
+The huge advantage of this system is that it controls land costs. If a land owner knows that a developer will not get planning permission unless the developer builds a scheme that meets the development plan, then they can not sell the land on the expectation of the high profits that can be generated from a scheme that does not meet the plan. 
+
+For example, if a land owner has farm land and farm land is cheaper than housing, they want to sell the land to a housing developer. However, if the development plan does not allow for that they cant, and the value of the land is pegged to the price of farm land and not housing.
+
+Because the removal of development rights potentially lowered the value of land, land oweners were compensated for their loss at the time of the planning act in 1947.
+
+However, develpers at 12-20 Wyvil Road found a way around this system. Instead of working out an appropriate land value that priced in the cost of building affordable housing, Savills looked at real market transactions and used those values as a benchmark. The problem was that all of the sites they used as comparisons did not meet the council’s planning obligations, particularly in relation to affordable housing. 
 
 In the examples they used, the extra money the development could generate from dropping affordable housing from the scheme was priced into the land. In effect, what the developer was telling the council was that in order to be financially viable, the development had to outperform other developments in the area that had already been allowed to drop their affordable housing obligations. 
 
@@ -42,7 +50,7 @@ Below are the market values used as comparables for the viability appraisal for 
 
 ![](http:www.ourcity.london/wp-content/uploads/2016/07/Land-prices-12-20-Wyvil-Road.jpg)
 
-In order to generate comparable figures using the plots chosen Savills took the price transacted, applied inflation and then multiplied the price to make up for any difference in size of the plots of land. In some cases a discount was applied if the development was sold after planning permission had been granted.
+In order to generate comparable figures using the plots chosen Savills took the price transacted, applied inflation and then multiplied the price to make up for any difference in size of the plots of land. In some cases a discount was applied if the development was sold after planning permission had been granted. The effect of this was to inflate the cost of undeveloped land, to make it comparable to developed land which had gained permission with lower amounts of affordable housing. Again, turning the viability equation in favour of the developer. 
 
 ###Parliament house
 ![](http://www.ourcity.london/wp-content/uploads/2016/06/13381184_145650849178401_1582690443_n.jpg)
