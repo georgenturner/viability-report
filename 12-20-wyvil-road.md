@@ -50,7 +50,7 @@ Below are the market values used as comparables for the viability appraisal for 
 
 ![](http:www.ourcity.london/wp-content/uploads/2016/07/Land-prices-12-20-Wyvil-Road.jpg)
 
-In order to generate comparable figures using the plots chosen Savills took the price transacted, applied inflation and then multiplied the price to make up for any difference in size of the plots of land. In some cases a discount was applied if the development was sold after planning permission had been granted. The effect of this was to inflate the cost of undeveloped land, to make it comparable to developed land which had gained permission with lower amounts of affordable housing. Again, turning the viability equation in favour of the developer. 
+In order to generate comparable figures using the plots chosen Savills took the price transacted, applied inflation and then multiplied the price to make up for any difference in size of the plots of land. In some cases a discount was applied if the development was sold after planning permission had been granted. 
 
 ###Parliament house
 ![](http://www.ourcity.london/wp-content/uploads/2016/06/13381184_145650849178401_1582690443_n.jpg)
