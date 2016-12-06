@@ -40,5 +40,4 @@ The later sales schdule did not detail all of the apartments on sale, and it is 
 
 How much difference does this really make? A ball park calculation based on the published net internal area of the market housing of 126,799 sq ft, shows that the differnce between the two pricing schedules would produce an additional £100m of revenues for the developer.
 
-Although in this case there was a timing difference, the London housing market is not so absurd as to produce a doubling of prices within a year. 
-
+Although in this case there was a real timing difference in the valuations, the London housing market is not so absurd as to produce a doubling of prices within a year. 
